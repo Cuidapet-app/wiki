@@ -1,0 +1,83 @@
+Saúde da pele;Hiperpigmentação ou melanodermia; classificação dada quando o animal apresenta um escurecimento da pele
+Saúde da pele;Hipopigmentação ou leucodermia; diminuição ou perda da cor natural da pele
+Saúde da pele;Leucotriquia; pelos que se tornaram mais claros
+Saúde da pele;Melanotriquia; pelos que se tornaram mais escuros
+Saúde da pele;Alopécia; redução total ou parcial dos pelos em alguma região, podendo ser simétrica, assimétrica, generalizada ou focal
+Saúde da pele;Hipotricose; grande perda no volume de pelos
+Saúde da pele;Discromia; mudanças na cor do pelo
+Saúde da pele;Eritrodermia; pele avermelhada
+Saúde da pele;Acromia; pele sem cor
+Saúde da pele;Petéquia; pontinhos roxos na pele
+Saúde da pele;Equimose; extravasamento de sangue dos vasos sanguíneos da pele, formando uma área de cor roxa que pode chegar a 3 cm
+Saúde da pele;Sufusão; extravasamento de sangue dos vasos sanguíneos da pele, formando uma área de cor roxa maior do que 3 cm
+Saúde da pele;Pápula; mancha elevada de cor rosada
+Saúde da pele;Nódulo; lesões maiores do que 1 cm, que podem ser de origem conjuntiva ou epitelial
+Saúde da pele;Neoplasma ou tumor; multiplicação anormal das células, gerando uma massa excessiva de tecidos
+Saúde da pele;Placa; Saliência que possui um formato retangular
+Saúde da pele;Abscesso; acúmulo de secreção com pus
+Saúde da pele;Cisto; espaço fechado localizado em um órgão ou tecido, o qual é revestido em tecido epitelial, e repleto de líquido ou outras substâncias
+Saúde da pele;Lesões vesiculobolhosas; queimaduras em formato de bolhas
+Saúde da pele;Flegmão; secreção com pus em todo o lugar
+Saúde da pele;Pústula; espinha com secreção de pus
+Saúde da pele;Hiperqueratose ou hiperceratose; espessamento da pele
+Saúde da pele;Hiperlignificação; pele com umidade e grossa
+Saúde da pele;Hipotonia cutânea; pele fina
+Saúde da pele;Descamação; pele com descamação
+Saúde da pele;Cicatriz; lesão na pele
+Saúde da pele;Comedo ou comedões; pontos de cor preta na pele
+Saúde da pele;Colarete epidérmico; pústula após rompimento que descamou em formato anelar
+Saúde ocular;Episclerite; olhos vermelhos
+Saúde ocular;Hifema; sangue na camada anterior
+Saúde ocular;Catarata; olhos cristalinos e opacos
+Saúde ocular;Ceratite; córnea inflamada
+Saúde ocular;Hipópio; câmara anterior com pus
+Saúde ocular;Miose; contração da pupila
+Saúde ocular;Midríase; dilatação da pupila
+Saúde circulatória e respiratória;Seca; sistema cardiovascular ou respiratório
+Saúde circulatória e respiratória;Produtiva; pneumonia ou broncopneumonia
+Saúde circulatória e respiratória;Paroxística; engasgar com muita ou pouca intensidade
+Saúde circulatória e respiratória;Tosse inspiratória; trato respiratório superior
+Saúde circulatória e respiratória;Tosse expiratória; trato respiratório inferior
+Saúde circulatória e respiratória;Tosse mista; sistema cardiovascular
+Saúde circulatória e respiratória;Dispnéia; dificuldade de respiração
+Saúde circulatória e respiratória;Bradipneia; diminuição da frequência respiratória
+Saúde circulatória e respiratória;Taquipneia; frequência respiratória maior
+Saúde circulatória e respiratória;Apneia; parada respiratória
+Saúde circulatória e respiratória;Síncope; ato de desmaiar
+Saúde circulatória e respiratória;Cianose; cor em tom roxo azulado
+Saúde digestiva;Normorexia ou normofagia; apetite sem alterações
+Saúde digestiva;Anorexia; sem apetite ou interesse por comida
+Saúde digestiva;Hiporexia; perda de apetite
+Saúde digestiva;Polifagia; ter mais apetite constantemente
+Saúde digestiva;Parorexia; apetite fora do padrão ou normalidade
+Saúde digestiva;Normodipsia; beber água normalmente
+Saúde digestiva;Adipsia; não beber água nem sentir sede
+Saúde digestiva;Oligodipsia; beber menos água
+Saúde digestiva;Polidipsia; beber mais água
+Saúde digestiva;Disfagia; Dificuldade de deglutição
+Saúde digestiva;Êmese; vômito ou outros conteúdos gástricos expelidos
+Saúde digestiva;Regurgitação; conteúdo expelido do esôfago, sem esforço, não digerido
+Saúde digestiva;Hematêmese; vomitar com sangue
+Saúde digestiva;Normoquesia; defecar normalmente
+Saúde digestiva;Aquesia; não defecar
+Saúde digestiva;Oligoquesia; defecar menos
+Saúde digestiva;Hematoquezia; sangue vivo nas fezes (IG)
+Saúde digestiva;Melena; Sangue preto ou digerido nas fezes
+Saúde digestiva;Disquesia; dor no momento de defecação
+Saúde digestiva;Tenesmo; esforço na defecação
+Saúde digestiva;Constipação; Incapaz de defecar
+Saúde digestiva;Incontinência; Incapaz de controlar a defecação
+Saúde geniturinária;Anúria; ausência na produção de urina
+Saúde geniturinária;Iscúria; há urina, mas não consegue eliminá-la
+Saúde geniturinária;Oligúria; pouca eliminação de urina
+Saúde geniturinária;Poliúria; Aumento do volume de urina
+Saúde geniturinária;Polaciúria; Aumento da frequência urinária
+Saúde geniturinária;Estrangúria; micção lenta e dolorosa
+Saúde geniturinária;Colúria; urina com espuma de cor amarelada e escura
+Saúde geniturinária;Disúria; urinar com dificuldade
+Saúde geniturinária;Hematúria; urina com sangue
+Saúde geniturinária;Secreções; que podem ser serosas, sero-sanguinolentas, sanguinolentas, purulenta
+Saúde neurológica e locomotora;Luxação; perda de congruência articular
+Saúde neurológica e locomotora;Ataxia; falta de coordenação motora
+Saúde neurológica e locomotora;Claudicação; mancar
+Saúde neurológica e locomotora;Fratura; perda da integridade óssea
